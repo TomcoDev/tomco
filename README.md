@@ -44,7 +44,7 @@ Soy desarrollador Full Stack basado en Limpio, Paraguay. Actualmente trabajo en 
 
 ### Experiencia Profesional
 
-**Programador Full Stack en Factupar** (Agosto 2025 - Presente)
+**Programador Full Stack en Factupar** (Julio 2025 - Presente)
 * Desarrollo de lógica de negocio para módulos de Créditos, Tesorería y Facturación.
 * Modernización de código Legacy PHP hacia arquitectura MVC.
 * Implementación de sistemas de Facturación Electrónica (SIFEN) y manejo de respuestas JSON.
